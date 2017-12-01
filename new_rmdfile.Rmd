@@ -17,3 +17,14 @@ print("testing")
 ```
 
 a=100
+
+```{r}
+a=function(test){
+  if(test=="T"){
+    print("True")
+  }
+}
+  a(test="T")
+
+```
+
