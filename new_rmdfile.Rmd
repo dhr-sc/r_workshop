@@ -9,9 +9,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
+### This is a test
+** 12/01/2017 **
 ```{r}
 print("testing")
+
 ```
 
 a=100
